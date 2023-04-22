@@ -10,7 +10,7 @@ export default {
     // 默认主题配置
     navbar: [
         { text: 'Home', link: '/' },
-        { text: 'Guide', link: '/guide/' },
+        { text: 'Guide', link: '/test1/' },
         { text: 'External', link: 'https://google.com' },
       ]
   }),
