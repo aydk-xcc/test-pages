@@ -5,6 +5,7 @@ import { searchPlugin } from '@vuepress/plugin-search'
 export default {
   lang: 'zh-CN',
   title: '你好， VuePress ！',
+  base: 'test-pages',
   description: '这是我的第一个 VuePress 站点',
   theme: defaultTheme({
     // 默认主题配置
